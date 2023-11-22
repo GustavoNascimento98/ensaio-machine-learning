@@ -1,5 +1,5 @@
 # Ensaio de Machine Learning
-    
+![Machine Learning](img/project_picture.jpg)
 
 ## Problema de negócio
 - **Descrição**    
